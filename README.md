@@ -8,7 +8,7 @@ To download all the files included this repository, paste in your terminal:
 # Instructions for installing Ubuntu and GRSISort
 https://github.com/UWCNuclear/UbuntuSetUp
 
-# Detector Efficiency Calibration Script
+# Script for Detector Efficiency Calibration
 https://github.com/UWCNuclear/RootEffi
 
 Instructions are on the GitHub page and in the README file.
