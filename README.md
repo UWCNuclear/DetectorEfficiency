@@ -13,7 +13,7 @@ https://github.com/UWCNuclear/RootEffi
 
 Instructions are on the GitHub page and in the README file.
 
-# Doing your own efficiency calibration using from real germanium detector arrays :-)
+# Doing your own efficiency calibration of real germanium detector arrays :-)
 Four data files are included in this repository:
 
 Soccer Ball array at iThemba LABS, Cape Town, South Africa (13 germanium clover detectors, 13 x 4 = 52 germanium crystals)
