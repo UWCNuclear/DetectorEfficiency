@@ -13,7 +13,7 @@ https://github.com/UWCNuclear/RootEffi
 
 Instructions are on the GitHub page and in the README file.
 
-# Doing your own efficiency calibration of real germanium detector arrays
+# Doing the efficiency calibration for real germanium detector arrays
 Four data files are included in this repository:
 
 *GRIFFIN* array at TRIUMF, Vancouver, Canada (16 germanium clover detectors, 16 x 4 = 64 germanium crystals)
