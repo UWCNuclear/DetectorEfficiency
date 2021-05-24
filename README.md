@@ -5,7 +5,7 @@ To download all the files included this repository, paste in your terminal:
 
     git clone https://github.com/UWCNuclear/PeakFitting.git
 
-# Instructions for installing Ubuntu and GRSISort
+# Instructions for Installing Ubuntu and GRSISort
 https://github.com/UWCNuclear/UbuntuSetUp
 
 # Script for Detector Efficiency Calibration
@@ -13,7 +13,7 @@ https://github.com/UWCNuclear/RootEffi
 
 Instructions are on the GitHub page and in the README file.
 
-# Doing the efficiency calibration for real germanium detector arrays
+# Doing the Efficiency Calibration of Real Germanium Detector Arrays
 Four data files are included in this repository:
 
 *GRIFFIN* array at TRIUMF, Vancouver, Canada (16 germanium clover detectors, 16 x 4 = 64 germanium crystals)
@@ -25,7 +25,7 @@ Four data files are included in this repository:
 *TIGRESS* array at TRIUMF, Vancouver, Canada (12 germanium clover detectors, 12 x 4 = 48 germanium crystals)
 
 
-# Nuclear Databases to check the Eu-152 gamma-ray energies and intensities
+# Nuclear Databases to Check the Eu-152 Gamma-ray Energies and Intensities
 *The Lund/LBNL Nuclear Data Search:* http://nucleardata.nuclear.lu.se/toi/
 
 *National Nuclear Data Center:* https://www.nndc.bnl.gov/
