@@ -10,6 +10,7 @@ https://github.com/UWCNuclear/UbuntuSetUp
 
 # Detector Efficiency Calibration Script
 https://github.com/UWCNuclear/RootEffi
+
 Instructions are on the GitHub page and in the README file.
 
 # Doing your own efficiency calibration using Eu-152 data from real germanium detector arrays :-)
