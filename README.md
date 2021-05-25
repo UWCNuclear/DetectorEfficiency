@@ -21,6 +21,14 @@ Four data files are included in this repository:
 
 *National Nuclear Data Center:* https://www.nndc.bnl.gov/
 
+*GRIFFIN Detectors:* https://doi.org/10.1016/j.nima.2018.11.115
+
+*MINIBALL Detectors:* https://doi.org/10.1140/epja/i2013-13040-9
+
+*Soccer Ball Detectors:* https://doi.org/10.1016/j.nima.2005.11.067
+
+*TIGRESS Detectors:* https://doi.org/10.1007/s10751-013-0905-7
+
 # How to Fit Peaks with GRSISort
 *Installation instructions for Ubuntu and GRSISort at* https://github.com/UWCNuclear/UbuntuSetUp
 
