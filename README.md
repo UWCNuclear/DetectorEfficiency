@@ -1,11 +1,11 @@
 # Introduction on Detector Efficiency and Peak Fitting
 Introduction slides are included in this repository.
 
-To download all the files included this repository, paste in your terminal:
+To download all the files included in this repository, paste in your terminal:
 
     git clone https://github.com/UWCNuclear/PeakFitting.git
 
-# Doing the Efficiency Calibration of Real Germanium Detector Arrays!
+# Doing the Efficiency Calibration of Real High Purity Germanium Detector Arrays!
 Four data files are included in this repository:
 
 *GRIFFIN* array at TRIUMF, Vancouver, Canada (16 germanium clover detectors, 16 x 4 = 64 germanium crystals)
@@ -40,11 +40,11 @@ Draw histogram with “ gammaSingles->Draw() ”
 
 Display peak energies by pressing “s”
 
-Click and drag on x-axis to zoom in, zoom out by pressing “o”
+Click and drag on x-axis to zoom in, zoom out by pressing “o”, right click on x-axis and click “Unzoom” to zoom out
 
-Click and drag on y-axis to zoom in, right click and click “Unzoom” to zoom out
+Click and drag on y-axis to zoom in, zoom out by pressing “o”, right click on y-axis and click “Unzoom” to zoom out
 
-Click and click on spectrum to set the fitting boundaries around your peak
+Click on the left and click on the right side of the peak to set the fitting boundaries
 
 Fit by pressing “f”
 
