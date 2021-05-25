@@ -49,5 +49,5 @@ Remove all markers by pressing “n”
 # How to Fit the Detector Efficiency with RootEffi 
 https://github.com/UWCNuclear/RootEffi
 
-Instructions are on the GitHub page and in the README file.
+Instructions are on the GitHub page and in the README file, and in the Introduction slides :-)
 
