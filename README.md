@@ -1,5 +1,5 @@
 # Introduction to Detector Efficiency and Peak Fitting
-Introduction slides are included in this repository.
+Introduction slides are included in this repository (soon!).
 
 To download all the files included in this repository, paste in your terminal:
 
