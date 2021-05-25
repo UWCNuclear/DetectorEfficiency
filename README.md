@@ -17,7 +17,7 @@ Four data files are included in this repository:
 *TIGRESS* array at TRIUMF, Vancouver, Canada (12 germanium clover detectors, 12 x 4 = 48 germanium crystals)
 
 # How to Find Nuclear Information 
-*The Lund/LBNL Nuclear Data Search:* http://nucleardata.nuclear.lu.se/toi/
+*Lund/LBNL Nuclear Data Search:* http://nucleardata.nuclear.lu.se/toi/
 
 *National Nuclear Data Center:* https://www.nndc.bnl.gov/
 
