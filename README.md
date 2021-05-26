@@ -16,13 +16,13 @@ To download all the files included in this repository, paste in your terminal:
 # Doing the Efficiency Calibration of Real High Purity Germanium Detector Arrays!
 Four data files are included in this repository:
 
-*GRIFFIN* array at TRIUMF, Vancouver, Canada (16 germanium clover detectors, 16 x 4 = 64 germanium crystals): https://doi.org/10.1016/j.nima.2018.11.115
+*GRIFFIN* array at TRIUMF, Vancouver, Canada (16 germanium clover detectors): https://doi.org/10.1016/j.nima.2018.11.115
 
-*MINIBALL* array at CERN, Geneva, Switzerland (8 germanium triple cluster detectors, 8 x 3 = 24 germanium crystals): https://doi.org/10.1140/epja/i2013-13040-9
+*MINIBALL* array at CERN, Geneva, Switzerland (8 germanium triple cluster detectors): https://doi.org/10.1140/epja/i2013-13040-9
 
-*Soccer Ball* array at iThemba LABS, Cape Town, South Africa (13 germanium clover detectors, 13 x 4 = 52 germanium crystals): https://doi.org/10.1016/j.nima.2005.11.067
+*Soccer Ball* array at iThemba LABS, Cape Town, South Africa (13 germanium clover detectors): https://doi.org/10.1016/j.nima.2005.11.067
 
-*TIGRESS* array at TRIUMF, Vancouver, Canada (12 germanium clover detectors, 12 x 4 = 48 germanium crystals): https://doi.org/10.1007/s10751-013-0905-7
+*TIGRESS* array at TRIUMF, Vancouver, Canada (12 germanium clover detectors): https://doi.org/10.1007/s10751-013-0905-7
 
 # How to Find Nuclear Information 
 *Lund/LBNL Nuclear Data Search:* http://nucleardata.nuclear.lu.se/toi/
