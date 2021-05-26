@@ -7,7 +7,7 @@
 *Practical #3: Detector Efficiency and Peak Fitting*
 
 # Introduction to Detector Efficiency and Peak Fitting
-Introduction slides are included in this repository (soon!).
+Introduction slides are included in this repository.
 
 To download all the files included in this repository, paste in your terminal:
 
