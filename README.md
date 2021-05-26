@@ -1,3 +1,11 @@
+# Links to practical videos
+
+*Practical #1: How to install the Ubuntu subsystem for Windows 10*  https://www.youtube.com/watch?v=22VtIhzPB1o
+
+*Practical #2: Plotting data with Python and xmgrace*  https://www.youtube.com/watch?v=KrcyFavMHiY
+
+*Practical #3: Detector Efficiency and Peak Fitting*
+
 # Introduction to Detector Efficiency and Peak Fitting
 Introduction slides are included in this repository (soon!).
 
