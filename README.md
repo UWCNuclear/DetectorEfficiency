@@ -25,25 +25,25 @@ Four data files are included in this repository:
 # How to Fit Peaks with GRSISort
 *Installation instructions for Ubuntu and GRSISort at* https://github.com/UWCNuclear/UbuntuSetUp
 
-Open the file with “ grsisort -l Eu152_ARRAYNAME.root ”
+Open the file with " grsisort -l Eu152_ARRAYNAME.root "
 
-See the list of histograms in the file with “.ls”
+See the list of histograms in the file with ".ls"
 
-Draw histogram with “ gammaSingles->Draw() ”
+Draw histogram with " gammaSingles->Draw() "
 
-Display peak energies by pressing “s”
+Display rough peak energies by pressing "s"
 
-Click and drag on x-axis to zoom in, zoom out by pressing “o”, right click on x-axis and click “Unzoom” to zoom out
+Click and drag on x-axis to zoom in, zoom out by pressing "o", right click on x-axis and click “Unzoom” to zoom out
 
-Click and drag on y-axis to zoom in, zoom out by pressing “o”, right click on y-axis and click “Unzoom” to zoom out
+Click and drag on y-axis to zoom in, zoom out by pressing "o", right click on y-axis and click “Unzoom” to zoom out
 
 Click on the left and click on the right side of the peak to set the fitting boundaries
 
-Fit by pressing “f”
+Fit by pressing "f"
 
-Remove all markers by pressing “n”
+Remove all markers by pressing "n"
 
-.q to quit
+".q" to quit
 
 ***More analysis tools at*** https://github.com/GRIFFINCollaboration/GRSISort/wiki/Interactive-Analysis
 
