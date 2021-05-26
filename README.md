@@ -56,7 +56,5 @@ Remove all markers by pressing "n"
 ***More analysis tools at*** https://github.com/GRIFFINCollaboration/GRSISort/wiki/Interactive-Analysis
 
 # How to Fit the Detector Efficiency with RootEffi 
-*Instructions and script at* https://github.com/UWCNuclear/RootEffi
-
-Instructions are on the GitHub page, its README file, and in the introduction slides :-)
+*Instructions and script at* https://github.com/UWCNuclear/RootEffi and in the introduction slides :-)
 
