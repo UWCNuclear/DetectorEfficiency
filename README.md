@@ -33,6 +33,8 @@ Four data files are included in this repository:
 # How to Fit Peaks with GRSISort
 *Installation instructions for Ubuntu and GRSISort at* https://github.com/UWCNuclear/UbuntuSetUp
 
+(Remember Xming has to be run every time your computer is rebooted.)
+
 Open the file with " grsisort -l Eu152_***ARRAYNAME***.root "
 
 See the list of histograms in the file with ".ls"
