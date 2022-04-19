@@ -64,15 +64,4 @@ Remove all markers by pressing "n"
 
 # PHY 312 Practicals
 
-Group A: GRIFFIN data
-
-Group B: MINIBALL data
-
-Group C: Soccer Ball data
-
-Group D: TIGRESS data
-
 In one file, submit your fitted peaks (minimum of 8 peaks), your edited RootEffi script, and your efficiency curve :-)
-
-On iKamva, by Thursday June 3rd 2021, 2pm.
-
