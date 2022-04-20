@@ -37,7 +37,7 @@ Four data files are included in this repository:
 
 (Remember Xming has to be run every time your computer is rebooted.)
 
-Open the file with the following command, where ARRAYNAME is the name of the array with which you want to work:
+Frm the PeakFitting directory (cd PeakFitting), open the file with the following command, where ARRAYNAME is the name of the array with which you want to work:
 
     grsisort -l Eu152_ARRAYNAME.root
 
@@ -64,7 +64,7 @@ Remove all markers by pressing "n"
 ***More analysis tools at*** https://github.com/GRIFFINCollaboration/GRSISort/wiki/Interactive-Analysis
 
 # How to Fit the Detector Efficiency with RootEffi 
-*Instructions and script at* https://github.com/UWCNuclear/RootEffi and in the introduction slides in this repo :-)
+*Instructions and script at* https://github.com/UWCNuclear/RootEffi and in the introduction slides in this repository.
 
 # PHY 312 Practicals
 
