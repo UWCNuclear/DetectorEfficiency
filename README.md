@@ -37,11 +37,15 @@ Four data files are included in this repository:
 
 (Remember Xming has to be run every time your computer is rebooted.)
 
-Open the file with " grsisort -l Eu152_***ARRAYNAME***.root "
+Open the file with:
+
+    grsisort -l Eu152_ARRAYNAME.root
 
 See the list of histograms in the file with ".ls"
 
-Draw histogram with " gammaSingles->Draw() "
+Draw histogram with:
+
+    gammaSingles->Draw()
 
 Display rough peak energies by pressing "s"
 
