@@ -24,7 +24,7 @@ Four data files are included in this repository:
 
 *Soccer Ball* array at iThemba LABS, Cape Town, South Africa (13 germanium clover detectors): https://doi.org/10.1016/j.nima.2005.11.067
 
-*TIGRESS* array at TRIUMF, Vancouver, Canada (12 germanium clover detectors): https://doi.org/10.1007/s10751-013-0905-7
+*TIGRESS* array at TRIUMF, Vancouver, Canada (14 germanium clover detectors): https://doi.org/10.1007/s10751-013-0905-7
 
 # How to Find Nuclear Information 
 *Lund/LBNL Nuclear Data Search:* http://nucleardata.nuclear.lu.se/toi/
