@@ -15,29 +15,12 @@ To download all the files included in this repository, paste in your terminal:
 
     git clone https://github.com/UWCNuclear/PeakFitting.git
 
-# Doing the Efficiency Calibration of Real High Purity Germanium Detector Arrays!
-Four data files are included in this repository:
-
-*GRIFFIN* array at TRIUMF, Vancouver, Canada (16 germanium clover detectors): https://doi.org/10.1016/j.nima.2018.11.115
-
-*MINIBALL* array at CERN, Geneva, Switzerland (8 germanium triple cluster detectors): https://doi.org/10.1140/epja/i2013-13040-9
-
-*Soccer Ball* array at iThemba LABS, Cape Town, South Africa (13 germanium clover detectors): https://doi.org/10.1016/j.nima.2005.11.067
-
-*TIGRESS* array at TRIUMF, Vancouver, Canada (14 germanium clover detectors): https://doi.org/10.1007/s10751-013-0905-7
-
-# How to Find Nuclear Information 
-*Lund/LBNL Nuclear Data Search:* http://nucleardata.nuclear.lu.se/toi/
-
-*National Nuclear Data Center:* https://www.nndc.bnl.gov/
-
-
 # How to Fit Peaks with GRSISort
 *Installation instructions for Ubuntu and GRSISort at* https://github.com/UWCNuclear/UbuntuSetUp
 
-(Remember Xming has to be run every time your computer is rebooted.)
+(Remember Xming has to be run every time your computer is rebooted :-)
 
-Frm the PeakFitting directory (cd PeakFitting), open the file with the following command, where ARRAYNAME is the name of the array with which you want to work:
+From the PeakFitting directory (cd PeakFitting), open the file with the following command, where ARRAYNAME is the name of the array with which you want to work:
 
     grsisort -l Eu152_ARRAYNAME.root
 
@@ -63,9 +46,25 @@ Remove all markers by pressing "n"
 
 ***More analysis tools at*** https://github.com/GRIFFINCollaboration/GRSISort/wiki/Interactive-Analysis
 
-# How to Fit the Detector Efficiency with RootEffi 
+# How to Do the Detector Efficiency Calibration with RootEffi 
 *Instructions and script at* https://github.com/UWCNuclear/RootEffi and in the introduction slides in this repository.
 
 # PHY 312 Practicals
-
 In one file, submit your fitted peaks (minimum of 8 peaks), your edited RootEffi script, and your efficiency curve :-)
+
+
+# More Details on Real High Purity Germanium Detector Arrays!
+Four data files are included in this repository:
+
+*GRIFFIN* array at TRIUMF, Vancouver, Canada (16 germanium clover detectors): https://doi.org/10.1016/j.nima.2018.11.115
+
+*MINIBALL* array at CERN, Geneva, Switzerland (8 germanium triple cluster detectors): https://doi.org/10.1140/epja/i2013-13040-9
+
+*Soccer Ball* array at iThemba LABS, Cape Town, South Africa (13 germanium clover detectors): https://doi.org/10.1016/j.nima.2005.11.067
+
+*TIGRESS* array at TRIUMF, Vancouver, Canada (14 germanium clover detectors): https://doi.org/10.1007/s10751-013-0905-7
+
+# How to Find Nuclear Information 
+*Lund/LBNL Nuclear Data Search:* http://nucleardata.nuclear.lu.se/toi/
+
+*National Nuclear Data Center:* https://www.nndc.bnl.gov/
