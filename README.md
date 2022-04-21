@@ -47,7 +47,7 @@ Remove all markers by pressing "n"
 ***More analysis tools at*** https://github.com/GRIFFINCollaboration/GRSISort/wiki/Interactive-Analysis
 
 # How to Do a Detector Efficiency Calibration with RootEffi 
-The instructions and script are * https://github.com/UWCNuclear/RootEffi and in the introduction slides in this repository.
+The instructions are in the introduction slides in this repository and the script is at https://github.com/UWCNuclear/RootEffi 
 
 # PHY 312 Practicals
 In one file, submit screenshots of your fitted peaks (minimum of 8 peaks), your edited RootEffi script, and your efficiency curve :-)
