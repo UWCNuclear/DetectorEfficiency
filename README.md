@@ -46,11 +46,11 @@ Remove all markers by pressing "n"
 
 ***More analysis tools at*** https://github.com/GRIFFINCollaboration/GRSISort/wiki/Interactive-Analysis
 
-# How to Do the Detector Efficiency Calibration with RootEffi 
-*Instructions and script at* https://github.com/UWCNuclear/RootEffi and in the introduction slides in this repository.
+# How to Do a Detector Efficiency Calibration with RootEffi 
+The instructions and script are * https://github.com/UWCNuclear/RootEffi and in the introduction slides in this repository.
 
 # PHY 312 Practicals
-In one file, submit your fitted peaks (minimum of 8 peaks), your edited RootEffi script, and your efficiency curve :-)
+In one file, submit screenshots of your fitted peaks (minimum of 8 peaks), your edited RootEffi script, and your efficiency curve :-)
 
 
 # More Details on Real High Purity Germanium Detector Arrays!
