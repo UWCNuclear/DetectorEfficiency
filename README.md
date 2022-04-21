@@ -32,9 +32,9 @@ Draw histogram with:
 
 Display rough peak energies by pressing "s"
 
-Click and drag on x-axis to zoom in, zoom out by pressing "o", right click on x-axis and click “Unzoom” to zoom out
+Click and drag on x-axis to zoom in, zoom out by pressing "o"
 
-Click and drag on y-axis to zoom in, zoom out by pressing "o", right click on y-axis and click “Unzoom” to zoom out
+Click and drag on y-axis to zoom in, zoom out by pressing "o" or right click on y-axis and click “Unzoom”
 
 Click on the left and click on the right side of the peak to set the fitting boundaries
 
