@@ -13,14 +13,14 @@ Introduction slides are included in this repository.
 
 To download all the files included in this repository, paste in your terminal:
 
-    git clone https://github.com/UWCNuclear/PeakFitting.git
+    git clone https://github.com/UWCNuclear/DetectorEfficiency.git
 
 # How to Fit Peaks with GRSISort
 *Installation instructions for Ubuntu and GRSISort at* https://github.com/UWCNuclear/UbuntuSetUp
 
 (Remember Xming has to be run every time your computer is rebooted :-)
 
-From the PeakFitting directory (cd PeakFitting), open the file with the following command, where ARRAYNAME is the name of the array with which you want to work:
+From the DetectorEfficiency directory (cd DetectorEfficiency), open the file with the following command, where ARRAYNAME is the name of the array with which you want to work:
 
     grsisort -l Eu152_ARRAYNAME.root
 
