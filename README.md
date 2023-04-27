@@ -46,17 +46,17 @@ For this practical, Ubuntu/Linux, ROOT and GRSISort are required.
 
 **Step 6.** Fit the peaks of interest (tips in the section below!), and save screenshots of your fitted peaks and their fitted area/sum (minimum of 8 peaks)
 
-In the RootEffi.C script, edit the peak areas and uncertainties obtained from the peaks you fitted.
+**Step 7.** In the RootEffi.C script, edit the peak areas and uncertainties obtained from the peaks you fitted.
 
 Remember that whenever you edit a script, you should save it and close ROOT/GRSISort to run it again.
 
-**Step 7.** To run RootEffi, type in the command line:
+**Step 8.** To run RootEffi, type in the command line:
 
     grsisort -l RootEffi.C
 
-**Step 8.** Save your edited script and your new efficiency curve
+**Step 9.** Save your edited script and your new efficiency curve
 
-**Step 9.** In one file, submit screenshots of your fitted peaks (minimum of 8 peaks), your edited RootEffi script, and your efficiency curve :-)
+**Step 10.** In one file, submit screenshots of your fitted peaks (minimum of 8 peaks), your edited RootEffi script, and your efficiency curve :-)
 
 # How to Fit Peaks with GRSISort
 
