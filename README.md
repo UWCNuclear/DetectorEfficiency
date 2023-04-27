@@ -9,11 +9,7 @@
 *Practical #4: Semi-Empirical Mass Formula* https://www.youtube.com/watch?v=B2W0OYhtddY
 
 # Introduction to Semiconductors, Detector Efficiency and Peak Fitting
-Introduction slides are included in this repository.
-
-**More Details on Real High Purity Germanium Detector Arrays!**
-
-Four data files are included in this repository:
+Introduction slides are included in this repository along with four data files:
 
 - *GRIFFIN* array at TRIUMF, Vancouver, Canada (16 germanium clover detectors): https://doi.org/10.1016/j.nima.2018.11.115
 
@@ -23,16 +19,9 @@ Four data files are included in this repository:
 
 - *TIGRESS* array at TRIUMF, Vancouver, Canada (14 germanium clover detectors): https://doi.org/10.1007/s10751-013-0905-7
 
-**How to Find Nuclear Information**
-
-- Lund/LBNL Nuclear Data Search: http://nucleardata.nuclear.lu.se/toi/
-
-- National Nuclear Data Center: https://www.nndc.bnl.gov/
-
-
 # How to do a Detector Efficiency Calibration
 
-For this practical, Ubuntu/Linux, ROOT and GRSISort are required.
+For this practical, Ubuntu/Linux, gedit, ROOT and GRSISort are required.
 
 *Installation instructions:* https://github.com/UWCNuclear/UbuntuSetUp
 
@@ -100,3 +89,10 @@ Remember that whenever you edit a script, you should save it and close ROOT/GRSI
 - Quit GRSISort with ".q"
 
 ***More analysis tools at*** https://github.com/GRIFFINCollaboration/GRSISort/wiki/Interactive-Analysis
+
+# How to Find Nuclear Information
+
+- Lund/LBNL Nuclear Data Search: http://nucleardata.nuclear.lu.se/toi/
+
+- National Nuclear Data Center: https://www.nndc.bnl.gov/
+
