@@ -24,19 +24,24 @@ For this practical, Ubuntu/Linux, ROOT and GRSISort are required.
 (Remember Xming has to be run every time your computer is rebooted :-)
 
 Download the .root data files and slides with
+
     git clone https://github.com/UWCNuclear/DetectorEfficiency.git
 
 Download the RootEffi efficiency script with
+
     git clone https://github.com/UWCNuclear/RootEffi.git
 
 Move the RootEffi script to the DetectorEfficiency directory:
+
     cd DetectorEfficiency
     mv ../RootEffi.C .
 
 In gedit, open the RootEffi.C script to see the energy of the peaks you should fit:
+
     gedit RootEffi.C &
 
 In GRSISort, open the data file of your choice, where ARRAYNAME is the name of the array with which you want to work (GRIFFIN, MINIBALL, SoccerBall or TIGRESS):
+
     grsisort -l Eu152_ARRAYNAME.root
 
 Fit the peaks of interest (tips in the section below!), and save screenshots of your fitted peaks and their fitted area/sum (minimum of 8 peaks)
@@ -46,6 +51,7 @@ In the RootEffi.C script, edit the peak areas and uncertainties obtained from th
 Remember that whenever you edit a script, you should save it and close ROOT/GRSISort to run it again.
 
 To run RootEffi, type in the command line:
+
     grsisort -l RootEffi.C
 
 Save your edited script and your new efficiency curve
@@ -55,11 +61,13 @@ In one file, submit screenshots of your fitted peaks (minimum of 8 peaks), your 
 # How to Fit Peaks with GRSISort
 
 From the DetectorEfficiency directory (cd DetectorEfficiency), open the file with the following command, where ARRAYNAME is the name of the array with which you want to work:
+
     grsisort -l Eu152_ARRAYNAME.root
 
 See the list of histograms in the file with ".ls"
 
 Draw histogram with:
+
     gammaSingles->Draw()
 
 Display rough peak energies by pressing "s"
