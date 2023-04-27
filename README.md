@@ -86,6 +86,8 @@ Remember that whenever you edit a script, you should save it and close ROOT/GRSI
 
 - Remove all markers by pressing "n"
 
+- Zoom on and fit more peaks
+
 - Quit GRSISort with ".q"
 
 ***More analysis tools at*** https://github.com/GRIFFINCollaboration/GRSISort/wiki/Interactive-Analysis
