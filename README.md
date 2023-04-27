@@ -23,66 +23,66 @@ For this practical, Ubuntu/Linux, ROOT and GRSISort are required.
 
 (Remember Xming has to be run every time your computer is rebooted :-)
 
-Download the .root data files and slides with
+**Step 1.** Download the .root data files and slides with
 
     git clone https://github.com/UWCNuclear/DetectorEfficiency.git
 
-Download the RootEffi efficiency script with
+**Step 2.** Download the RootEffi efficiency script with
 
     git clone https://github.com/UWCNuclear/RootEffi.git
 
-Move the RootEffi script to the DetectorEfficiency directory:
+**Step 3.** Move the RootEffi script to the DetectorEfficiency directory:
 
     cd DetectorEfficiency
     mv ../RootEffi.C .
 
-In gedit, open the RootEffi.C script to see the energy of the peaks you should fit:
+**Step 4.** In gedit, open the RootEffi.C script to see the energy of the peaks you should fit:
 
     gedit RootEffi.C &
 
-In GRSISort, open the data file of your choice, where ARRAYNAME is the name of the array with which you want to work (GRIFFIN, MINIBALL, SoccerBall or TIGRESS):
+**Step 5.** In GRSISort, open the data file of your choice, where ARRAYNAME is the name of the array with which you want to work (GRIFFIN, MINIBALL, SoccerBall or TIGRESS):
 
     grsisort -l Eu152_ARRAYNAME.root
 
-Fit the peaks of interest (tips in the section below!), and save screenshots of your fitted peaks and their fitted area/sum (minimum of 8 peaks)
+**Step 6.** Fit the peaks of interest (tips in the section below!), and save screenshots of your fitted peaks and their fitted area/sum (minimum of 8 peaks)
 
 In the RootEffi.C script, edit the peak areas and uncertainties obtained from the peaks you fitted.
 
 Remember that whenever you edit a script, you should save it and close ROOT/GRSISort to run it again.
 
-To run RootEffi, type in the command line:
+**Step 7.** To run RootEffi, type in the command line:
 
     grsisort -l RootEffi.C
 
-Save your edited script and your new efficiency curve
+**Step 8.** Save your edited script and your new efficiency curve
 
-In one file, submit screenshots of your fitted peaks (minimum of 8 peaks), your edited RootEffi script, and your efficiency curve :-)
+**Step 9.** In one file, submit screenshots of your fitted peaks (minimum of 8 peaks), your edited RootEffi script, and your efficiency curve :-)
 
 # How to Fit Peaks with GRSISort
 
-From the DetectorEfficiency directory (cd DetectorEfficiency), open the file with the following command, where ARRAYNAME is the name of the array with which you want to work:
+- From the DetectorEfficiency directory (cd DetectorEfficiency), open the file with the following command, where ARRAYNAME is the name of the array with which you want to work:
 
     grsisort -l Eu152_ARRAYNAME.root
 
-See the list of histograms in the file with ".ls"
+- See the list of histograms in the file with ".ls"
 
-Draw histogram with:
+- Draw histogram with:
 
     gammaSingles->Draw()
 
-Display rough peak energies by pressing "s"
+- Display rough peak energies by pressing "s"
 
-Click and drag on the x-axis to zoom in, zoom out by pressing "o"
+- Click and drag on the x-axis to zoom in, zoom out by pressing "o"
 
-Click and drag on the y-axis to zoom in, zoom out by pressing "o" or right click on the y-axis and click “Unzoom”
+- Click and drag on the y-axis to zoom in, zoom out by pressing "o" or right click on the y-axis and click “Unzoom”
 
-Click on the left and click on the right side of the peak to set the fitting boundaries
+- Click on the left and click on the right side of the peak to set the fitting boundaries
 
-Fit by pressing "f"
+- Fit by pressing "f"
 
-Remove all markers by pressing "n"
+- Remove all markers by pressing "n"
 
-".q" to quit
+- Quit GRSISort with ".q"
 
 ***More analysis tools at*** https://github.com/GRIFFINCollaboration/GRSISort/wiki/Interactive-Analysis
 
