@@ -38,7 +38,7 @@ For this practical, Ubuntu/Linux, gedit, ROOT and GRSISort are required.
 **Step 3.** Move the RootEffi script to the DetectorEfficiency directory:
 
     cd DetectorEfficiency
-    mv ../RootEffi.C .
+    mv ../RootEffi/RootEffi.C .
 
 **Step 4.** In gedit, open the RootEffi.C script to see the energy of the peaks you should fit:
 
