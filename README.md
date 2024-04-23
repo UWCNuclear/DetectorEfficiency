@@ -11,11 +11,11 @@
 # Introduction to Semiconductors, Detector Efficiency and Peak Fitting
 Introduction slides are included in this repository along with four data files:
 
+- *GAMKA* array at iThemba LABS, Cape Town, South Africa (13 germanium clover detectors): https://doi.org/10.1016/j.nima.2005.11.067
+
 - *GRIFFIN* array at TRIUMF, Vancouver, Canada (16 germanium clover detectors): https://doi.org/10.1016/j.nima.2018.11.115
 
 - *MINIBALL* array at CERN, Geneva, Switzerland (8 germanium triple cluster detectors): https://doi.org/10.1140/epja/i2013-13040-9
-
-- *Soccer Ball* array at iThemba LABS, Cape Town, South Africa (13 germanium clover detectors): https://doi.org/10.1016/j.nima.2005.11.067
 
 - *TIGRESS* array at TRIUMF, Vancouver, Canada (14 germanium clover detectors): https://doi.org/10.1007/s10751-013-0905-7
 
@@ -44,7 +44,7 @@ For this practical, Ubuntu/Linux, gedit, ROOT and GRSISort are required.
 
     gedit RootEffi.C &
 
-**Step 5.** In GRSISort, open the data file of your choice, where ARRAYNAME is the name of the array with which you want to work (GRIFFIN, MINIBALL, SoccerBall or TIGRESS):
+**Step 5.** In GRSISort, open the data file of your choice, where ARRAYNAME is the name of the array with which you want to work (GAMKA, GRIFFIN, MINIBALL or TIGRESS):
 
     grsisort -l Eu152_ARRAYNAME.root
 
